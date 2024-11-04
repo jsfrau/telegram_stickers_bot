@@ -1,2 +1,2 @@
-TOKEN = "7946469719:AAEk6TQe_CS-Ig6mQrIELslxYn46grdzSRA"
-BOT_USERNAME = "tgSticksFromArchive_bot"
+TOKEN = ""
+BOT_USERNAME = ""
